@@ -10,3 +10,9 @@ _Do the next steps only after making sure you already created and exported the l
    * Make sure to rename your repo to something other than `build-your-own-image-classifier-template`. Due to a github policy, `git-lfs` does not support uploads to public forks, which is what your repo will be if you name it the same as what you are copying from. For more info, please see [this issue](https://github.com/git-lfs/git-lfs/issues/1906). 
 
 1. Continue with the steps discussed in the article.
+
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/kaurgurleena945/Plastics_Project.git/HEAD?urlpath=%2Fvoila%2Frender%2Fbuild-your-own-image-classifier.ipynb)
+Copy markdown link to clipboard
+
+.. image:: https://mybinder.org/badge_logo.svg
+ :target: https://mybinder.org/v2/gh/kaurgurleena945/Plastics_Project.git/HEAD?urlpath=%2Fvoila%2Frender%2Fbuild-your-own-image-classifier.ipynb
